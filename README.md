@@ -1,2 +1,2 @@
-![Alt text](IMAGENES/CapturaIntegrante2_1.png "a title")
-![Alt text](IMAGENES/CapturaIntegrante2_1.png "a title")
+JOSUE MARTINEZ
+![Alt text](IMAGENES/PUSH_DE_CAMBIOS.png "a title")
