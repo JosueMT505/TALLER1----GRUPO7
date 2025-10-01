@@ -1,2 +1,1 @@
-# TALLER1----GRUPO7
-GRUPO 7 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
