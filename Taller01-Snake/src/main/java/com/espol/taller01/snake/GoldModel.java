@@ -6,6 +6,8 @@ import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.swing.text.Position;
+
 /**
  * Sample game for illustration. Intentionally stupid; more interesting
  * games to be provided by students.
