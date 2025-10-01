@@ -8,3 +8,6 @@ MACELO ZUÑIGA
 ![Alt text](integrante1historial.png "a title")
 ![Alt text](capturaerrorintegrante1.png "a title")
 ![Alt text](capturaerrorintegrante1conflictomensaje.png "a title")
+GEOVANNY VALDIVIA
+![Alt text](IMAGENES/Cambio1-Integrante3 "a title")
+![Alt text](IMAGENES/Cambio2-Integrante3 "a title")
